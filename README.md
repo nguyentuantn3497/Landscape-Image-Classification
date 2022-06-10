@@ -1,1 +1,1 @@
-# landscape-image-classification
+# Landscape Image Classification
